@@ -21,5 +21,8 @@
   "scripts": {
     "start": "node src/server",
     "postinstall": "cogs"
+  },
+  "engines": {
+    "node": "6.0.0"
   }
 }
