@@ -23,6 +23,6 @@
     "postinstall": "cogs"
   },
   "engines": {
-    "node": "6.0.0"
+    "node": "6"
   }
 }
